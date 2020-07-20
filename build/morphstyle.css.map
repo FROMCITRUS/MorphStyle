@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK",
+"sources": ["../sass/core/morphstyle.sass"],
+"names": [],
+"file": "morphstyle.css"
+}
